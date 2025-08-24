@@ -1,15 +1,6 @@
 
 ````markdown
-# 📰 Fake News Identifier  
 
-[![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)  
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)  
-[![Made with Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-orange)](https://scikit-learn.org/)  
-[![NLTK](https://img.shields.io/badge/NLTK-NLP-yellowgreen)](https://www.nltk.org/)  
-
-A **machine learning project** that detects fake news articles 📰 using **Natural Language Processing (NLP)** and multiple classification algorithms.  
-
----
 
 ## ✨ Features
 ✅ Multiple ML algorithms:  
