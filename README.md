@@ -2,13 +2,6 @@
 ````markdown
 
 
-## ✨ Features
-✅ Multiple ML algorithms:  
-&nbsp;&nbsp;• Logistic Regression  
-&nbsp;&nbsp;• Decision Tree  
-&nbsp;&nbsp;• Random Forest  
-&nbsp;&nbsp;• Gradient Boosting  
-
 ✅ Advanced **text preprocessing** with TF-IDF  
 ✅ Interactive & command-line prediction interface  
 ✅ Batch processing support  
