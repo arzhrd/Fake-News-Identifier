@@ -114,5 +114,5 @@ Contributions, issues, and feature requests are welcome!
 - ✅ Table for model performance  
 - ✅ Clean structured formatting with highlights  
 
-Do you want me to also **design a cool project banner/logo** (like with Canva or AI) so your GitHub repo looks even more professional?
+
 ```
